@@ -1,0 +1,46 @@
+body {
+	line-height: 1.5;
+	font-size: 16px;
+}
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 0;
+}
+
+h3 {
+	margin-top: 0;
+}
+
+#portraitPic {
+	 display: inline;
+}
+
+.findPics {
+	width: 100%;
+}
+
+.margin {
+	margin-bottom: 45px;
+}
+
+.padding {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.section-1-color, .section-3-color {
+	background-color: #FFF6EB;
+	color: #7F7B75;
+}
+
+.section-2-color {
+	background-color: #FFE8CE;
+	color: #7F7B75;
+}
+
+.footer-color, .navbar, .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+	background-color: #7F7B75;
+	color: #FFF6EB;
+}
